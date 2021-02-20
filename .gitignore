@@ -1,0 +1,11 @@
+# Repository
+.git/
+
+# PyCharm IDE
+.idea/
+
+# Virtual Environment
+.tox/
+
+# Jupyter Lab
+.ipynb_checkpoints/
